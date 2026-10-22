@@ -578,8 +578,8 @@ export default function Home() {
 
           <p className="max-w-xl text-xs leading-5 text-gray-300">
             বাজারের পণ্যের দাম এক জায়গায় জানুন। বাজারে কেনাকাটার
-            আগে দাম তুলনা করুন। প্রদর্শিত তথ্যের নির্ভুলতা API
-            ডেটার ওপর নির্ভরশীল।
+            আগে দাম তুলনা করুন।
+            
           </p>
 
           <p className="shrink-0 text-xs text-gray-400">© বাজার দর</p>
